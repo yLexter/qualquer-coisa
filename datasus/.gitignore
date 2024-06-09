@@ -1,0 +1,6 @@
+*.dbf
+*.dbc
+.dbc
+sinasc_data_raw
+sinasc_data_raw_2021
+dados
